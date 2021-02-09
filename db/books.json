@@ -1,0 +1,17 @@
+[
+
+    {
+        "isbn": 1,
+        "judul": "Pintar belajar express",
+        "sinopsis": "begini loh caranya...",
+        "penulis": "roy",
+        "genre": "teknologi"
+    },
+    {
+        "isbn": 2,
+        "judul": "Cara memasak nasi",
+        "sinopsis": "jadi begini...",
+        "penulis": "mada",
+        "genre": "edukasi"
+    }
+]
